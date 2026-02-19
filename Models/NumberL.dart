@@ -1,0 +1,130 @@
+import 'NumberM.dart';
+
+const List<NumberModel> numbersList = [
+  NumberModel(
+    englishName: 'Zero',
+    spanishName: 'Cero',
+    image: 'assets/Image/numbers/0.png',
+    audio: 'Audio/numbers/Zero.mp3',
+  ),
+  NumberModel(
+    englishName: 'One',
+    spanishName: 'Uno',
+    image: 'assets/Image/numbers/1.png',
+    audio: 'Audio/numbers/One.mp3',
+  ),
+  NumberModel(
+    englishName: 'Two',
+    spanishName: 'Dos',
+    image: 'assets/Image/numbers/2.png',
+    audio: 'Audio/numbers/Two.mp3',
+  ),
+  NumberModel(
+    englishName: 'Three',
+    spanishName: 'Tres',
+    image: 'assets/Image/numbers/3.png',
+    audio: 'Audio/numbers/Three.mp3',
+  ),
+  NumberModel(
+    englishName: 'Four',
+    spanishName: 'Cuatro',
+    image: 'assets/Image/numbers/4.png',
+    audio: 'Audio/numbers/Four.mp3',
+  ),
+  NumberModel(
+    englishName: 'Five',
+    spanishName: 'Cinco',
+    image: 'assets/Image/numbers/5.png',
+    audio: 'Audio/numbers/Five.mp3',
+  ),
+  NumberModel(
+    englishName: 'Six',
+    spanishName: 'Seis',
+    image: 'assets/Image/numbers/6.png',
+    audio: 'Audio/numbers/Six.mp3',
+  ),
+  NumberModel(
+    englishName: 'Seven',
+    spanishName: 'Siete',
+    image: 'assets/Image/numbers/7.png',
+    audio: 'Audio/numbers/Seven.mp3',
+  ),
+  NumberModel(
+    englishName: 'Eight',
+    spanishName: 'Ocho',
+    image: 'assets/Image/numbers/8.png',
+    audio: 'Audio/numbers/Eight.mp3',
+  ),
+  NumberModel(
+    englishName: 'Nine',
+    spanishName: 'Nueve',
+    image: 'assets/Image/numbers/9.png',
+    audio: 'Audio/numbers/Nine.mp3',
+  ),
+  NumberModel(
+    englishName: 'Ten',
+    spanishName: 'Diez',
+    image: 'assets/Image/numbers/10.png',
+    audio: 'Audio/numbers/Ten.mp3',
+  ),
+  NumberModel(
+    englishName: 'Eleven',
+    spanishName: 'Once',
+    image: 'assets/Image/numbers/11.png',
+    audio: 'Audio/numbers/Eleven.mp3',
+  ),
+  NumberModel(
+    englishName: 'Twelve',
+    spanishName: 'Doce',
+    image: 'assets/Image/numbers/12.png',
+    audio: 'Audio/numbers/Twelve.mp3',
+  ),
+  NumberModel(
+    englishName: 'Thirteen',
+    spanishName: 'Trece',
+    image: 'assets/Image/numbers/13.png',
+    audio: 'Audio/numbers/Thirteen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Fourteen',
+    spanishName: 'Catorce',
+    image: 'assets/Image/numbers/14.png',
+    audio: 'Audio/numbers/Fourteen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Fifteen',
+    spanishName: 'Quince',
+    image: 'assets/Image/numbers/15.png',
+    audio: 'Audio/numbers/Fifteen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Sixteen',
+    spanishName: 'Dieciséis',
+    image: 'assets/Image/numbers/16.png',
+    audio: 'Audio/numbers/Sixteen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Seventeen',
+    spanishName: 'Diecisiete',
+    image: 'assets/Image/numbers/17.png',
+    audio: 'Audio/numbers/Seventeen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Eighteen',
+    spanishName: 'Dieciocho',
+    image: 'assets/Image/numbers/18.png',
+    audio: 'Audio/numbers/Eighteen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Nineteen',
+    spanishName: 'Diecinueve',
+    image: 'assets/Image/numbers/19.png',
+    audio: 'Audio/numbers/Nineteen.mp3',
+  ),
+  NumberModel(
+    englishName: 'Twenty',
+    spanishName: 'Veinte',
+    image: 'assets/Image/numbers/20.png',
+    audio: 'Audio/numbers/Twenty.mp3',
+  ),
+];
